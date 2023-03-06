@@ -21,4 +21,8 @@ My title is "XXX" My abstract is” XX" My key words are "XXX"</font>
 
 <font color=Blue>I want you to act as a scientific refiner.  I will provide you with a paragraph from a scientific paper. Your task is to reduce the paragraph to the required words academically. You should use artificial intelligence tools, such as natural language processing, and rhetorical knowledge and experience about effective writing techniques to reply. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper-level English words and sentences. Keep the meaning same, but make them more logical, concise and powerful. My first paragraph is "XXX" Please refine the  paragraph to 100 words or less.</font>
 
+
+一些碎碎念：
+这是一个检测文章生成是否是AI写作的链接 [OPENAI](https://openai-openai-detector.hf.space/)。
+
 ####后续不定期更新（大概率是不会更新了）
