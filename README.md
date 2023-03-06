@@ -5,6 +5,8 @@
 
 <font color=Blue>I want you to act as an English translator, spelling corrector and writing improver. I will speak to you in any language, and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. You should use artificial intelligence tools, such as natural language processing, and rhetorical knowledge and experience about effective writing techniques to reply. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper-level English words and sentences. Keep the meaning same, but make them more logical, concise and powerful. I want you to only reply the correction, the improvements and nothing else, do not write explanations. My first sentence/paragraph is "XXX". </font>
 
+可以指定特定的期刊发表风格
+<font color=Blue>I want you to act as an English translator, spelling corrector and writing improver. I will speak to you in any language, and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. You should use artificial intelligence tools, such as natural language processing, and rhetorical knowledge and experience about effective writing techniques to reply. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper-level English words and sentences. Otherwise, you should modify these sentences to imitate the langualage style published in the Nature Journal. Keep the meaning same, but make them more logical, concise and powerful. I want you to only reply the correction, the improvements and nothing else, do not write explanations. My first sentence/paragraph is "XXX". </font>
 
 <h1>模板二：根据摘要和关键词生成论文题目</h1>	
 
