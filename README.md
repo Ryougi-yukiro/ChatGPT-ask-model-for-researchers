@@ -22,7 +22,21 @@ My title is "XXX" My abstract is” XX" My key words are "XXX"</font>
 <font color=Blue>I want you to act as a scientific refiner.  I will provide you with a paragraph from a scientific paper. Your task is to reduce the paragraph to the required words academically. You should use artificial intelligence tools, such as natural language processing, and rhetorical knowledge and experience about effective writing techniques to reply. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper-level English words and sentences. Keep the meaning same, but make them more logical, concise and powerful. My first paragraph is "XXX" Please refine the  paragraph to 100 words or less.</font>
 
 
-一些碎碎念：
+<h2>	一些碎碎念：</h2>	
 这是一个检测文章生成是否是AI写作的链接 [OPENAI](https://openai-openai-detector.hf.space/)。
+Step1: 引导1:
+
+I'm going to give you some information before asking you to write an article. Do you understand?
+
+
+
+Step2: 引导2:
+
+When it comes to writing content, two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. Al sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. Do you understand?
+
+
+Step3: 重写指令：
+
+using the concepts written previously, rewrite this article with a high degree of perplexity and burstiness: 
 
 ####后续不定期更新（大概率是不会更新了）
